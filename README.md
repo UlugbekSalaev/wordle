@@ -1,4 +1,4 @@
-# wordle
+# Uzbek Wordle Game Solver
 Using statistics of letter frequency to solve Wordle game efficiently
 
 Wordle Game for Uzbek Language:
